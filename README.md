@@ -3,6 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/7b7e1bc9-d11f-4c43-8247-1b3f9cfec742">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MONI5HA&label=Profile%20views&color=0e75b6&style=flat" alt="MONI5HA" /> </p>
+<br>
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MONI5HA" alt="MONI5HA" /></a> </p>
 
