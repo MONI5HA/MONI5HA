@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Mastering Greedy Algorithms & Advanced DSA – Because efficiency is 🔑 Azure DevOps & Cloud Engineering – Automating like a boss ☁️🚀 AR/VR Development & Research – Building the future one pixel at a time 🕶️ High-Performance System Design – Scaling apps like a pro 📈**
 
-- 👨‍💻 All of my projects are available at [https://githeub.com/](https://github.com/MONI5HA)
+- 👨‍💻 All of my projects are available at [https://github.com/MONI5HA](https://github.com/MONI5HA)
 
 - 💬 Ask me about **🚀How to turn complex problems into simple solutions 🔥 Making the impossible just another feature request 💻 Deploying like a pro with DevOps & Cloud ☁️ Debugging—aka my version of detective work 🕵️‍♀️ How I write code and break barriers 💪**
 
 - 📫 How to reach me **monishagovind2000@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/MONI5HA]([https://github.com/MONI5HA](https://www.linkedin.com/in/mon15ha/))
+- 📄 Know about my experiences [https://www.linkedin.com/in/mon15ha/](https://www.linkedin.com/in/mon15ha/)
 
 - ⚡ Fun fact **I don’t just break glass ceilings—I write the code that shatters them**
 
