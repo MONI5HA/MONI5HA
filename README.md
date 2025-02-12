@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monisha Govindaraj</h1>
-<h3 align="center">🚀 **Microsoft & Amazon Certified Full-Stack Developer** 🎓 **Master of Applied Computing @ University of Windsor** 🎓 **Master of Science in AR/VR @ IIT Jodhpur, India** 🎓 **Master of Business Administration in Business Analytics @ Anna University, India** 💻 **3+ years of experience** in building high-performance web & mobile applications</h3>
+<h3 align="center">🚀 Microsoft & Amazon Certified Full-Stack Developer 🎓 Master of Applied Computing @ University of Windsor 🎓 Master of Science in AR/VR @ IIT Jodhpur, India 🎓 Master of Business Administration in Business Analytics @ Anna University, India 💻 3+ years of experience in building high-performance web & mobile applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MONI5HA&label=Profile%20views&color=0e75b6&style=flat" alt="MONI5HA" /> </p>
 
@@ -33,4 +33,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MONI5HA&show_icons=true&locale=en&layout=compact" alt="MONI5HA" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MONI5HA&show_icons=true&locale=en" alt="MONI5HA" /></p>
