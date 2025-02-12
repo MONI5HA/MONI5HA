@@ -34,5 +34,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MONI5HA&show_icons=true&locale=en&layout=compact" alt="MONI5HA" /></p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MONI5HA" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=MONI5HA" alt="GitHub Streak Stats" />
 </p>
